@@ -22,7 +22,7 @@ regex = "1.11.1"
 
 bip39 = { package = "tiny-bip39", version = "2.0.0" }
 
-alloy = { version = "0.7.3", features = [
+alloy = { version = "0.8.0", features = [
     "network",
     "providers",
     "rpc",
